@@ -15,9 +15,9 @@ Pattern guards allow you to add arbitrary boolean conditions to match arms. Here
 
 ```rust
 struct User {
-    name: String,
-    age: u32,
-    role: String,
+    name        : String,
+    age         : u32,
+    role        : String,
     access_level: u32,
 }
 
@@ -60,8 +60,8 @@ struct Vector3D {
 
 enum GameObject {
     Player { position: Vector3D, health: i32 },
-    Enemy { position: Vector3D, damage: i32 },
-    Item { position: Vector3D, item_type: String },
+    Enemy  { position: Vector3D, damage: i32 },
+    Item   { position: Vector3D, item_type: String },
 }
 
 fn process_game_object(obj: &GameObject) {
