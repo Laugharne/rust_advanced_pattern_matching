@@ -3,7 +3,11 @@
 >**Source:** [Advanced Pattern Matching in Rust: Unlocking the Full Power of match Expressions](https://freedium.cfd/https://medium.com/@abhishekkhaiwale007/advanced-pattern-matching-in-rust-unlocking-the-full-power-of-match-expressions-90423f739290)
 
 
-Pattern matching in Rust goes far beyond simple switch statements. While many developers are familiar with basic match expressions, Rust's pattern matching system offers sophisticated features that can make your code more expressive and maintainable. In this article, we'll explore advanced pattern matching techniques that even experienced Rust developers might have overlooked.
+Pattern matching in Rust goes far beyond simple switch statements.
+
+While many developers are familiar with basic match expressions, Rust's pattern matching system offers sophisticated features that can make your code more expressive and maintainable.
+
+In this article, we'll explore advanced pattern matching techniques that even experienced Rust developers might have overlooked.
 
 ## Beyond the Basics: Advanced Pattern Matching Features
 
